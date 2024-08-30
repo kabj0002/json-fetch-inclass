@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Peter Tolstrup",
+    "surname": "Aagesen",
+    "topics": ["Programmering", "UI Design"]
+  },
+  {
+    "name": "Troels Agergaard",
+    "surname": "Rasmussen",
+    "topics": ["Programmering", "Frameworks"]
+  },
+  {
+    "name": "Alan",
+    "surname": "Egelhardt",
+    "topics": ["Programmering", "UX Design"]
+  }
+]
